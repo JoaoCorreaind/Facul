@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AP1imc</string>
+    <string name="peso">Enter the weight in kg:</string>
+    <string name="altura">Enter the height in centimeters:</string>
+    <string name="nome">Type your name:</string>
+    <string name="masculino">Male</string>
+    <string name="feminino">Female</string>
+    <string name="calcular">Calculate</string>
+    <string name="ola">Hi</string>
+    <string name="seuImc">"Your BMI is: "</string>
+    <string name="titulo">Calculation of BMI</string>
+    <string name="f1">"under weight "</string>
+    <string name="f2">"at ideal weight "</string>
+    <string name="f3">"marginally overweight "</string>
+    <string name="f4">"Overweight "</string>
+    <string name="f5">Obesity</string>
+    <string name="f6">Invalid gender</string>
+</resources>

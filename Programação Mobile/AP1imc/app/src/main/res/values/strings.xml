@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">"AP1imc"</string>
+    <string name="titulo">Cálculo do IMC</string>
+    <string name="peso">Digite o peso em Kg:</string>
+    <string name="altura">Digite a altura em centimetros:</string>
+    <string name="nome">Digite seu nome:</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="calcular">Calcular</string>
+    <string name="ola">Olá</string>
+    <string name="seuImc">Seu IMC é:</string>
+    <string name="f1">Abaixo do peso</string>
+    <string name="f2">No peso ideal</string>
+    <string name="f3">Marginalmente acima do peso</string>
+    <string name="f4">Acima do peso ideal</string>
+    <string name="f5">Obesidade</string>
+    <string name="f6">Sexo inválido</string>
+
+</resources>
